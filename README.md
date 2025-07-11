@@ -11,3 +11,10 @@
 6. Setting Up the Environment - crearea unui mediu de lucru sigur si izolat pt utilizatorul lfs
 7. Compiling a Cross-Toolchain - construirea unui cross-compiler (compilator ce compileaza cod pt un sistem diferit fata de cel pe care ruleaza) si a altor tool-uri asociate
 8. Cross Compiling Temporary Tools - instalarea unor tool-uri intr-un loc provizoriu folosind toolchainul construit anterior
+9. Changing Ownership - schimbarea ownership-ului directoarelor $LFS/* la root
+10. Preparing Virtual Kernel File Systems - montarea unor sisteme speciale (ex: /dev, /proc,                                                  /sys, /run, /shm) care sunt folosite de kernel pt a                                               comunica cu alplicatii din userspace
+11. Entering the Chroot Environment - folosirea chroot pentru a schimba '/' in '/mnt/lfs'
+                                    - /mnt/lfs va fi vazut acum ca radacina sistemului de fisiere
+12. Creating Directories - crearea directoarelor standard pentru un sistem Linux complet
+13. Creating Essential Files and Symlinks - fisierele: /etc/mtab, /etc/hosts, /etc/passwd,                                                    /etc/group
+14. Other Packages
