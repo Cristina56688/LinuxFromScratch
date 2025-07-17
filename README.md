@@ -18,7 +18,11 @@
 12. Creating Directories - crearea directoarelor standard pentru un sistem Linux complet
 13. Creating Essential Files and Symlinks - fisierele: /etc/mtab, /etc/hosts, /etc/passwd,                                                    /etc/group
 14. Other Packages
-15. Installing Basic System Software - folosind uneltele temporare create anterior pentru compilarea pachetelor                                         direct in sistemul chroot, folosind bibliotecile si binarele proprii, nu                                         cele ale sistemului gazda
+15. Installing Basic System Software - folosirea uneltelor temporare create anterior pentru compilarea                                                  pachetelor direct in sistemul chroot, folosirea bibliotecilor si                                                 binarelor proprii, nu cele ale sistemului gazda
+
+
+
+    
 
 
 Scurta descriere pachete instalate:
