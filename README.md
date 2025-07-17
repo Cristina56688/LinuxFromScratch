@@ -18,6 +18,7 @@
 12. Creating Directories - crearea directoarelor standard pentru un sistem Linux complet
 13. Creating Essential Files and Symlinks - fisierele: /etc/mtab, /etc/hosts, /etc/passwd,                                                    /etc/group
 14. Other Packages
+15. Installing Basic System Software - folosind uneltele temporare create anterior pentru compilarea pachetelor                                         direct in sistemul chroot, folosind bibliotecile si binarele proprii, nu                                         cele ale sistemului gazda
 
 
 Scurta descriere pachete instalate:
@@ -156,7 +157,7 @@ Libpipeline      - Ajuta la crearea de pipeline-uri de comenzi
 
 Make             - Automatizeaza compilarea programelor
 
-Patch            - Aplica diferente (`.diff`) pe fisiere sursa
+Patch            - Aplica diferente (.diff) pe fisiere sursa
 
 Tar              - Creeaza si extrage arhive tar
 
