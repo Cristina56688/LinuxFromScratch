@@ -100,7 +100,7 @@ Expat            - Parser XML rapid, bazat pe C
 
 Inetutils        - Unelte de retea (ftp, telnet, hostname etc.)
 
-Less             - Vizualizator de fisiere text, similar cu `more`
+Less             - Vizualizator de fisiere text, similar cu more
 
 Perl             - Limbaj de scripting versatil
 
@@ -108,7 +108,7 @@ XML::Parser      - Parser XML in Perl (bazat pe Expat)
 
 Intltool         - Prelucreaza fisiere de traduceri pentru programe
 
-Autoconf         - Genereaza scripturi `configure`
+Autoconf         - Genereaza scripturi configure
 
 Automake         - Genereaza Makefile-uri portabile
 
@@ -168,7 +168,7 @@ MarkupSafe       - Biblioteca Python pentru text sigur in HTML/XML
 
 Jinja2           - Templating engine pentru Python (folosit de Meson)
 
-Udev (Systemd)   - Gestioneaza dispozitivele din `/dev`
+Udev (Systemd)   - Gestioneaza dispozitivele din /dev
 
 Man-DB           - Sistem de afisare si indexare a paginilor de manual
 
