@@ -19,6 +19,9 @@
 13. Creating Essential Files and Symlinks - fisierele: /etc/mtab, /etc/hosts, /etc/passwd,                                                    /etc/group
 14. Other Packages
 15. Installing Basic System Software - folosirea uneltelor temporare create anterior pentru compilarea                                                  pachetelor direct in sistemul chroot, folosirea bibliotecilor si                                                 binarelor proprii, nu cele ale sistemului gazda
+16. System Configuration - configurarea de baza a sistemului dupa ce pachetele au fost instalate
+                         - bootscripts, configurare retea, gestionare dispozitive si module, configurare ceas,
+                           fisiere speciale (/etc/inputrc, etc/shells) 
 
 
 
